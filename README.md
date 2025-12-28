@@ -32,7 +32,7 @@ The final report documents model performance and throughput, dataset characteris
 &nbsp;&nbsp;&nbsp;&nbsp; This document
 
 
-Project Overview
+**Project Overview**
 
 The goal of this project is to systematically evaluate how well different classical machine learning model families perform on heterogeneous tabular datasets. The study includes:
 
@@ -49,14 +49,14 @@ The goal of this project is to systematically evaluate how well different classi
 
 The analysis is designed to support reproducible benchmarking and to provide insight into how dataset characteristics relate to model performance.
 
-Complexity Analysis 
+**Complexity Analysis**
 
 Dataset complexity was measured using the `problexity` library implementation of Lorena et al. (2019) measures. See `notebooks/08_calculate_dataset_complexity.ipynb` for the complete calculation workflow. 
 
 The `problexity` library requires specific data formatting. Refer to the notebook for working example.
 
 
-How to Use This Repository
+**How to Use This Repository**
 
 1.	Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 4.	Explore results The Excel file in results/ contains all model–dataset outcomes used in the analysis.
 
-Reproducibility Notes
+**Reproducibility Notes**
 
 •	All experiments were run using a fixed Python environment defined in requirements.txt.
 
@@ -77,7 +77,7 @@ Reproducibility Notes
 •	The 159 raw datasets  used for this project are listed in Appendix D of the Final Report, including a link to each dataset. The datasets are not included in this repository.
 
 
-Citation
+**Citation**
 
 If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
 
@@ -85,7 +85,8 @@ License
 
 &nbsp;&nbsp;&nbsp;&nbsp; This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
     
-Contact Information
+
+**Contact Information**
 
 For questions or suggestions, feel free to contact:
 
@@ -96,6 +97,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
