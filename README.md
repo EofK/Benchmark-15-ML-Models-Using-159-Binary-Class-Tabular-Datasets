@@ -34,15 +34,15 @@ Project Overview
 
 The goal of this project is to systematically evaluate how well different classical machine learning model families perform on heterogeneous tabular datasets. The study includes:
 
-•	22 dataset complexity measures
+    •	22 dataset complexity measures
 
-•	8 model families
+    •	8 model families
 
-•	2,384 model–dataset evaluations
+    •	2,384 model–dataset evaluations
 
-•	Accuracy and throughput metrics
+    •	Accuracy and throughput metrics
 
-•	Correlation analyses between complexity and performance.
+    •	Correlation analyses between complexity and performance.
 
 
 The analysis is designed to support reproducible benchmarking and to provide insight into how dataset characteristics relate to model performance.
@@ -77,22 +77,24 @@ Reproducibility Notes
 
 Citation
 
-If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
+    If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
 
 License
 
-This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
+    This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
+    
 Contact Information
 
 For questions or suggestions, feel free to contact:
 
-•	Name: Ed Kaempf
+    •	Name: Ed Kaempf
 
-•	Email: edkaempf@gmail.com 
+    •	Email: edkaempf@gmail.com 
 
-•	GitHub: github.com/EofK 
+    •	GitHub: github.com/EofK 
 
-•	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+    •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
