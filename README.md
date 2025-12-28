@@ -10,6 +10,7 @@ This repository includes the final report and supporting Python notebooks for th
 The final report documents model performance and throughput, dataset characteristics, and tradeoffs between performance and efficiency. Using the Lorena et al. framework, the report characterizes each of the 159 datasets across 22 complexity dimensions spanning feature discriminability, class separability, geometric structure, and neighborhood cohesion. By correlating these complexity measures with the performance of 15 diverse models, the analysis identifies not only which models perform best overall, but also which algorithms are best suited to handle specific types of dataset difficulty.
 
 Repository Structure
+
 •	notebooks/ 
     Cleaned Jupyter notebooks used for data preparation, feature processing, model training, and model evaluation. Each notebook is numbered to reflect the recommended execution order.
 •	results/ 
@@ -24,6 +25,7 @@ Repository Structure
 Project Overview
 
 The goal of this project is to systematically evaluate how well different classical machine learning model families perform on heterogeneous tabular datasets. The study includes:
+
 •	22 dataset complexity measures
 •	8 model families
 •	2,384 model–dataset evaluations
@@ -51,6 +53,7 @@ pip install -r requirements.txt
 4.	Explore results The Excel file in results/ contains all model–dataset outcomes used in the analysis.
 
 Reproducibility Notes
+
 •	All experiments were run using a fixed Python environment defined in requirements.txt.
 •	Random seeds were set where applicable to support reproducibility.
 •	The 159 raw datasets  used for this project are listed in Appendix D of the Final Report, including a link to each dataset. The datasets are not included in this repository.
@@ -59,12 +62,15 @@ Citation
 If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
 
 License
+
 This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
 Contact Information
 
 For questions or suggestions, feel free to contact:
+
 •	Name: Ed Kaempf
 •	Email: edkaempf@gmail.com 
 •	GitHub: github.com/EofK 
 •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
