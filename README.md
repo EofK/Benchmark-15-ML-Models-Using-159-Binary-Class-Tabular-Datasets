@@ -16,6 +16,10 @@ The final report documents model performance and throughput, dataset characteris
 •	notebooks 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Cleaned Jupyter notebooks used for data preparation, feature processing, model training, and model evaluation. Each notebook is numbered to reflect the recommended execution order.
+
+•	Binary Classification Final Report 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Complete research paper presenting the benchmarking study of 15 ML models on 159 binary classification tabular datasets. Includes methodology, statistical analyses, performance rankings, dataset complexity analysis, and key findings on what makes classification problems difficult.
     
 •	results 
 
@@ -109,6 +113,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
