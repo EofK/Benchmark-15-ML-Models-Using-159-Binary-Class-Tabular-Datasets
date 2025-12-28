@@ -20,15 +20,16 @@ Repository Structure
 &nbsp;&nbsp;&nbsp;&nbsp; Contains the consolidated Excel file with 2,384 model–dataset pairs, including accuracy, throughput, and metadata used in the analysis.
     
 •	requirements.txt 
-    Python package dependencies required to reproduce the environment used for all experiments.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Python package dependencies required to reproduce the environment used for all experiments.
     
 •	LICENSE 
 
-    MIT license information governing use, distribution, and modification of this repository.
+&nbsp;&nbsp;&nbsp;&nbsp; MIT license information governing use, distribution, and modification of this repository.
     
 •	README 
 
-    This document
+&nbsp;&nbsp;&nbsp;&nbsp; This document
 
 
 Project Overview
@@ -95,6 +96,7 @@ For questions or suggestions, feel free to contact:
     •	GitHub: github.com/EofK 
 
     •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
