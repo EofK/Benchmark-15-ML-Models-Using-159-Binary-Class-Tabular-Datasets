@@ -36,15 +36,15 @@ Project Overview
 
 The goal of this project is to systematically evaluate how well different classical machine learning model families perform on heterogeneous tabular datasets. The study includes:
 
-    •	22 dataset complexity measures
+&nbsp;&nbsp;&nbsp;&nbsp; •	22 dataset complexity measures
 
-    •	8 model families
+&nbsp;&nbsp;&nbsp;&nbsp; •	8 model families
 
-    •	2,384 model–dataset evaluations
+&nbsp;&nbsp;&nbsp;&nbsp; •	2,384 model–dataset evaluations
 
-    •	Accuracy and throughput metrics
+&nbsp;&nbsp;&nbsp;&nbsp; •	Accuracy and throughput metrics
 
-    •	Correlation analyses between complexity and performance.
+&nbsp;&nbsp;&nbsp;&nbsp; •	Correlation analyses between complexity and performance.
 
 
 The analysis is designed to support reproducible benchmarking and to provide insight into how dataset characteristics relate to model performance.
@@ -96,6 +96,7 @@ For questions or suggestions, feel free to contact:
     •	GitHub: github.com/EofK 
 
     •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
