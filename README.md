@@ -21,6 +21,15 @@ The final report documents model performance and throughput, dataset characteris
 
 &nbsp;&nbsp;&nbsp;&nbsp; Complete research paper presenting the benchmarking study of 15 ML models on 159 binary classification tabular datasets. Includes methodology, statistical analyses, performance rankings, dataset complexity analysis, and key findings on what makes classification problems difficult.
     
+•	LICENSE 
+
+&nbsp;&nbsp;&nbsp;&nbsp; MIT license information governing use, distribution, and modification of this repository.MIT license information governing use, distribution, and modification of this repository.
+
+    
+•	Consolidated results Excel file of model performance and dataset complexity 
+
+&nbsp;&nbsp;&nbsp;&nbsp; The Excel file contains the results of all 15 models / 159 dataset pairs, including model performance and each dataset's complexity measures.
+    
 •	results 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Contains the consolidated Excel file with 2,384 model–dataset pairs, including accuracy, throughput, and metadata used in the analysis.
@@ -28,10 +37,7 @@ The final report documents model performance and throughput, dataset characteris
 •	requirements.txt 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Python package dependencies required to reproduce the environment used for all experiments.
-    
-•	LICENSE 
 
-&nbsp;&nbsp;&nbsp;&nbsp; MIT license information governing use, distribution, and modification of this repository.
     
 •	README 
 
@@ -113,6 +119,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
