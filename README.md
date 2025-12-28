@@ -12,14 +12,21 @@ The final report documents model performance and throughput, dataset characteris
 Repository Structure
 
 •	notebooks/ 
+
     Cleaned Jupyter notebooks used for data preparation, feature processing, model training, and model evaluation. Each notebook is numbered to reflect the recommended execution order.
+    
 •	results/ 
     Contains the consolidated Excel file with 2,384 model–dataset pairs, including accuracy, throughput, and metadata used in the analysis.
+    
 •	requirements.txt 
     Python package dependencies required to reproduce the environment used for all experiments.
+    
 •	LICENSE 
+
     MIT license information governing use, distribution, and modification of this repository.
+    
 •	README.md 
+
     This document.
 
 Project Overview
@@ -27,10 +34,15 @@ Project Overview
 The goal of this project is to systematically evaluate how well different classical machine learning model families perform on heterogeneous tabular datasets. The study includes:
 
 •	22 dataset complexity measures
+
 •	8 model families
+
 •	2,384 model–dataset evaluations
+
 •	Accuracy and throughput metrics
+
 •	Correlation analyses between complexity and performance.
+
 
 The analysis is designed to support reproducible benchmarking and to provide insight into how dataset characteristics relate to model performance.
 
@@ -42,6 +54,7 @@ The `problexity` library requires specific data formatting. Refer to the noteboo
 
 
 How to Use This Repository
+
 1.	Clone the repository
 git clone https://github.com/<your-username>/<repo-name>.git
 
@@ -79,6 +92,7 @@ For questions or suggestions, feel free to contact:
 •	GitHub: github.com/EofK 
 
 •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
