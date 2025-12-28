@@ -81,7 +81,7 @@ pip install -r requirements.txt
 
 **Citation**
 
-If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
+If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, December 2025.
 
 **License**
 
@@ -99,6 +99,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
