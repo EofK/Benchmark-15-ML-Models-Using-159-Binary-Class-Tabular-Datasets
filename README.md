@@ -79,6 +79,16 @@ pip install -r requirements.txt
 •	The 159 raw datasets  used for this project are listed in Appendix D of the Final Report, including a link to each dataset. The datasets are not included in this repository.
 
 
+**Datasets**
+
+
+This benchmark uses 159 tabular binary classification tabular datasets from public repositories (UCI, OpenML, Kaggle).
+
+A complete catalog of all 159 datasets, including source links, is provided in **Appendix B** of the accompanying Final Report.
+
+**Note:** Datasets are not included in this repository. Users must download datasets individually from their respective sources.
+
+
 **Citation**
 
 If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, December 2025.
@@ -99,6 +109,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
