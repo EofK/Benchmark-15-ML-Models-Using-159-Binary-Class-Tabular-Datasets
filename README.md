@@ -28,20 +28,19 @@ The final report documents model performance and throughput, dataset characteris
     
 •	Consolidated results Excel file of model performance and dataset complexity 
 
-&nbsp;&nbsp;&nbsp;&nbsp; The Excel file contains the results of all 15 models / 159 dataset pairs, including model performance and each dataset's complexity measures.
-    
-•	results 
-
-&nbsp;&nbsp;&nbsp;&nbsp; Contains the consolidated Excel file with 2,384 model–dataset pairs, including accuracy, throughput, and metadata used in the analysis.
-    
-•	requirements.txt 
-
-&nbsp;&nbsp;&nbsp;&nbsp; Python package dependencies required to reproduce the environment used for all experiments.
+&nbsp;&nbsp;&nbsp;&nbsp; Master data file containing performance results for all 2,384 model-dataset combinations. Includes accuracy/F1/AUC metrics, throughput, dataset complexity scores, and computational statistics.
 
     
 •	README 
 
-&nbsp;&nbsp;&nbsp;&nbsp; This document
+&nbsp;&nbsp;&nbsp;&nbsp; This document    
+
+
+•	requirements.txt 
+
+&nbsp;&nbsp;&nbsp;&nbsp; Python package dependencies required to reproduce the environment used for all experiments.
+
+
 
 
 **Project Overview**
@@ -119,6 +118,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
