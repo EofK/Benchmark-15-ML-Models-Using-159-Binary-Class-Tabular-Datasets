@@ -55,10 +55,14 @@ pip install -r requirements.txt
 Reproducibility Notes
 
 •	All experiments were run using a fixed Python environment defined in requirements.txt.
+
 •	Random seeds were set where applicable to support reproducibility.
+
 •	The 159 raw datasets  used for this project are listed in Appendix D of the Final Report, including a link to each dataset. The datasets are not included in this repository.
 
+
 Citation
+
 If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
 
 License
@@ -69,8 +73,12 @@ Contact Information
 For questions or suggestions, feel free to contact:
 
 •	Name: Ed Kaempf
+
 •	Email: edkaempf@gmail.com 
+
 •	GitHub: github.com/EofK 
+
 •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
