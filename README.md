@@ -83,19 +83,20 @@ If you use this repository or its results in academic work, please cite it appro
 
 License
 
-    This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
+&nbsp;&nbsp;&nbsp;&nbsp; This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
     
 Contact Information
 
 For questions or suggestions, feel free to contact:
 
-    •	Name: Ed Kaempf
+&nbsp;&nbsp;&nbsp;&nbsp; •	Name: Ed Kaempf
 
-    •	Email: edkaempf@gmail.com 
+&nbsp;&nbsp;&nbsp;&nbsp; •	Email: edkaempf@gmail.com 
 
-    •	GitHub: github.com/EofK 
+&nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
-    •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+&nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
