@@ -1,4 +1,6 @@
-Benchmarking Classical Machine Learning Models on Tabular Binary Classification
+**Benchmarking Classical Machine Learning Models on Tabular Binary Classification**
+
+
 This repository contains the reproducible code and results for a benchmarking study evaluating the performance of 15 classical machine learning model families across 159 tabular binary‑classification datasets. The project emphasizes methodological transparency, reproducibility, and clear documentation.
 
 This repository includes the final report and supporting Python notebooks for the analysis and comparison of 15 machine learning models on a supervised classification task. The project addresses four core questions: 
@@ -81,7 +83,7 @@ pip install -r requirements.txt
 
 If you use this repository or its results in academic work, please cite it appropriately: Ed Kaempf, Benchmarking 15 Machine Learning Models for Binary Classification: Accuracy, Complexity, and Speed, January 2026.
 
-License
+**License**
 
 &nbsp;&nbsp;&nbsp;&nbsp; This project is licensed under the MIT License.  Refer to the “LICENSE” file for details.
     
@@ -97,6 +99,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
