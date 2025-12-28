@@ -25,9 +25,10 @@ Repository Structure
 
     MIT license information governing use, distribution, and modification of this repository.
     
-•	README.md 
+•	README 
 
-    This document.
+    This document
+
 
 Project Overview
 
@@ -92,6 +93,7 @@ For questions or suggestions, feel free to contact:
 •	GitHub: github.com/EofK 
 
 •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
