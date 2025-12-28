@@ -9,7 +9,7 @@ This repository includes the final report and supporting Python notebooks for th
 
 The final report documents model performance and throughput, dataset characteristics, and tradeoffs between performance and efficiency. Using the Lorena et al. framework, the report characterizes each of the 159 datasets across 22 complexity dimensions spanning feature discriminability, class separability, geometric structure, and neighborhood cohesion. By correlating these complexity measures with the performance of 15 diverse models, the analysis identifies not only which models perform best overall, but also which algorithms are best suited to handle specific types of dataset difficulty.
 
-Repository Structure
+**Repository Structure**
 
 •	notebooks 
 
@@ -96,6 +96,7 @@ For questions or suggestions, feel free to contact:
 &nbsp;&nbsp;&nbsp;&nbsp; •	GitHub: github.com/EofK 
 
 &nbsp;&nbsp;&nbsp;&nbsp; •	Linkedin: https://www.linkedin.com/in/ed-kaempf-4887839b/ 
+
 
 
 
